@@ -9,3 +9,5 @@
 - How to make this all cards and blogs responsive for small and medium size screens
 
 Honest time to finish this project for large screen is 2 days. Then 1 day is for making this page responsive.
+
+[netlify link](https://live-project-developer-page.netlify.app/)
